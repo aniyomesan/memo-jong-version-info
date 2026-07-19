@@ -1,5 +1,5 @@
 {
-  "min_supported_version": "2.3.5",
-  "min_android_supported_version": "2.3.3",
+  "min_supported_version": "2.7.7",
+  "min_android_supported_version": "2.7.7",
   "force_update": true
 }
